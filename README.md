@@ -1,11 +1,9 @@
 # Daniel Grimut 🌟
-
-## About Me ℹ️
 Hello there! I am a soon-to-be graduate (Dec 2024) Software Developer based in Montreal. I am very passionate about AI and I am proficient in Java, JavaScript, C++, Python, and SQL, as well as possess field experience with React, NodeJS, and Maven. Feel free to check out some of my favorite projects below!
 
 ## Projects 🛠️
 - Sight Sense 👓 [link](https://github.com/aloisorozco/Sight-Sense):<br>
-- Developed for Quebec's largest hackathon, these are smart glasses that use computer vision and machine learning to help the visually impaired better navigate their environment. This project was developed in Python, using OpenCV, and installed onto a RasberyPy for portability.
+Developed for Quebec's largest hackathon, these are smart glasses that use computer vision and machine learning to help the visually impaired better navigate their environment. This project was developed in Python, using OpenCV, and installed onto a RasberyPy for portability.
 
 - Warzone Game 💥 [link](https://github.com/D-grimut/Warzone-Game):<br> 
 A fun little console game I made with friends as a challenge to master C++. The game is similar to Risk.
