@@ -3,7 +3,7 @@ Hello there! I am a soon-to-be graduate (Dec 2024) Software Developer based in M
 
 ## 🛠️ Projects 
 - 👓 Sight Sense [link](https://github.com/aloisorozco/Sight-Sense):<br>
-Developed for Quebec's largest hackathon, these are smart glasses that use computer vision and machine learning to help the visually impaired better navigate their environment. This project was developed in Python, using OpenCV, and installed onto a RasberyPy for portability.
+For ConuHacks 8, Quebec's largest Hackathon of the past decade, our team created an exceptional tool to increase home security with the help of ML and Computer Vision. SightSence utilizes multiple machine learning models to identify faces and uses mathematical concepts such as the Kalman Filter, IoU (intersect over Union), and the EAR (eye aspect ratio) to perform lighting-fast human authentications without the use of infra-red cameras.
 
 - 💥 Warzone Game [link](https://github.com/D-grimut/Warzone-Game):<br> 
 A fun little console game I made with friends as a challenge to master C++. The game is similar to Risk.
