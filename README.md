@@ -1,5 +1,5 @@
 # 🔭 Daniel Grimut
-Hello there! I am a soon-to-be graduate (Dec 2024) Software Developer based in Montreal. I am very passionate about AI and I am proficient in Java, JavaScript, C++, Python, and SQL, as well as possess field experience with React, NodeJS, and Maven. Feel free to check out some of my favorite projects below!
+Hello there! I am a soon-to-be graduate (May 2025) Software Developer based in Montreal. I am very passionate about AI and I am proficient in Java, JavaScript, C++, Python, and SQL, as well as possess field experience with React, NodeJS, and Maven. Feel free to check out some of my favorite projects below!
 
 ## 🛠️ Projects 
 - 👓 Sight Sense [link](https://github.com/aloisorozco/Sight-Sense):<br>
